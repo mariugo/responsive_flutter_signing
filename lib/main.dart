@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:responsive_signing/app/constants/appconstants.dart';
 import 'package:responsive_signing/app/constants/pages/login_page.dart';
 
 void main() {
@@ -12,8 +13,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Responsive Signing',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
+      theme: ThemeData.dark().copyWith(
+        scaffoldBackgroundColor: AppColors.backgroundColor,
       ),
       home: const LoginPage(),
     );
