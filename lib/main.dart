@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_signing/app/constants/appconstants.dart';
-import 'package:responsive_signing/app/constants/pages/login_page.dart';
+import 'package:responsive_signing/app/pages/login_page.dart';
 
 void main() {
   runApp(const MyApp());
