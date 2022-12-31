@@ -1,16 +1,15 @@
-# responsive_signing
+Docket
+📱Screens
+<img='assets/images/img01.png'>
+<img='assets/images/img02.png'>
 
-A new Flutter project.
+🛠 Technology 🚀
+This project was developed using Flutter
+flutter_svg
 
-## Getting Started
+Flutter 2.10.3
 
-This project is a starting point for a Flutter application.
+💻 About
+This is a simple sign in UI using some SVGs, the fields are not validated but you could easily do them so.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Made with ♥ by Mariugo 🚀
