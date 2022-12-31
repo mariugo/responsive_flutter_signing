@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:responsive_signing/app/widgets/btn_gradient.dart';
+import 'package:responsive_signing/app/widgets/login_field.dart';
 import 'package:responsive_signing/app/widgets/social_button.dart';
 
 class LoginPage extends StatelessWidget {
@@ -40,6 +42,22 @@ class LoginPage extends StatelessWidget {
                   'Ou',
                   style: TextStyle(fontSize: 17),
                 ),
+                const SizedBox(
+                  height: 15,
+                ),
+                const LoginField(
+                  hintText: 'Email',
+                ),
+                const SizedBox(
+                  height: 15,
+                ),
+                const LoginField(
+                  hintText: 'Senha',
+                ),
+                const SizedBox(
+                  height: 20,
+                ),
+                const BtnGradient(),
               ],
             ),
           ),
