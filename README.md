@@ -1,7 +1,8 @@
 Docket
+
 📱Screens
 ![image](https://user-images.githubusercontent.com/42812971/210152081-37613684-510c-4cec-abbb-e6b31c538d98.png)
-<img='assets/images/img02.png'>
+![image](https://user-images.githubusercontent.com/42812971/210152115-5378958c-d75f-4af7-9500-7dca0a1c50b7.png)
 
 🛠 Technology 🚀
 This project was developed using Flutter
