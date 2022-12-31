@@ -12,9 +12,7 @@ class LoginField extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ConstrainedBox(
-      constraints: const BoxConstraints(
-        maxWidth: 400,
-      ),
+      constraints: const BoxConstraints(maxWidth: 375),
       child: TextFormField(
         decoration: InputDecoration(
           hintText: hintText,
